@@ -1,0 +1,16 @@
+body
+{
+    margin:0;
+}
+body::-webkit-scrollbar
+{
+    display: none;
+}
+.videos::-webkit-scrollbar,.sidebar::-webkit-scrollbar{
+    display:none;
+}
+.react-player
+{
+    width: 100%;
+    background-color:black;
+}
